@@ -63,9 +63,9 @@
 
 | Name              | Email-id                      |
 | :--------------   | :---------------------------- |
-| Shivam kumar yadv | `shivam.yadv784@gmail.com`  |
-| Sunidhi pathak     | `Sunidhipathak639@gmail.com`      |
-| Mohammed raiyan   | `mohammedraiyan1101@gmail.com` |
+| Shivam kumar yadav| `shivam.yadv784@gmail.com`    |
+| Sunidhi pathak    | `Sunidhipathak639@gmail.com`  |
+| Mohammed raiyan   | `mohammedraiyan1101@gmail.com`|
 
 
 
